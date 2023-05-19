@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewRoomCoroutines</string>
+    <string name="name">Name</string>
+    <string name="email">email</string>
+    <string name="save">Save</string>
+    <string name="clear_all">Clear All</string>
+</resources>
