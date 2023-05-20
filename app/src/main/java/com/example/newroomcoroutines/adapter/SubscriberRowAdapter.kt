@@ -27,7 +27,7 @@ class SubscriberRowAdapter(private val subscribers: List<Subscriber>,
     }
 }
 
-class ViewHolder(val binding: SubscriberRowBinding): RecyclerView.ViewHolder(binding.root) {
+class ViewHolder(private val binding: SubscriberRowBinding): RecyclerView.ViewHolder(binding.root) {
 
     fun bind(subscriber: Subscriber, clickListener: (Subscriber) -> Unit) {
         binding.nameText.text = subscriber.name

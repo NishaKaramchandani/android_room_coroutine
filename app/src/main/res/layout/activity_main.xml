@@ -5,7 +5,7 @@
     <data>
         <variable
             name="subscriberVM"
-            type="com.example.roomcoroutine.viewmodel.SubscriberViewModel" />
+            type="com.example.newroomcoroutines.viewmodel.SubscriberViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

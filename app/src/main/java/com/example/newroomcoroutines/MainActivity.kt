@@ -12,7 +12,7 @@ import com.example.newroomcoroutines.database.Subscriber
 import com.example.newroomcoroutines.database.SubscriberDatabase
 import com.example.newroomcoroutines.database.SubscriberRepository
 import com.example.newroomcoroutines.databinding.ActivityMainBinding
-import com.example.roomcoroutine.viewmodel.SubscriberViewModel
+import com.example.newroomcoroutines.viewmodel.SubscriberViewModel
 import com.example.roomcoroutine.viewmodel.SubscriberViewModelFactory
 
 

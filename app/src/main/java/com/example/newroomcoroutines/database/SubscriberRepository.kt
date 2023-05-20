@@ -1,8 +1,5 @@
 package com.example.newroomcoroutines.database
 
-import com.example.newroomcoroutines.database.Subscriber
-import com.example.newroomcoroutines.database.SubscriberDAO
-
 class SubscriberRepository(private val dao: SubscriberDAO) {
     val subscribers = dao.getAllSubscribers()
 
